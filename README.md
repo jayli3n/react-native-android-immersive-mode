@@ -12,8 +12,7 @@ React Native Android Immersive Mode is a light weight [React Native](http://face
 ## Table of Contents
 
 - [Installation](#installation)
-- [Example](#example)
-- [API](#api)
+- [Usage](#usage)
 - [License](#license)
 
 ## Installation:

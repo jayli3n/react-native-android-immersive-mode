@@ -1,4 +1,4 @@
-package com.jayli3n.ToggleImmersiveMode;
+package com.jayli3n.toggleimmersivemode;
 
         import com.facebook.react.bridge.ReactContextBaseJavaModule;
         import com.facebook.react.bridge.ReactApplicationContext;

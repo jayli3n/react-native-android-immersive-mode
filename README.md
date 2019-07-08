@@ -1,6 +1,6 @@
 # React Native Toggle Immersive Mode
 
-React Native Android Immersive Mode is a light weight [React Native](http://facebook.github.io/react-native/) library to toggle the [Android Immersive Mode](https://developer.android.com/training/system-ui/immersive "immersive mode").
+Light weight [React Native](http://facebook.github.io/react-native/) library to toggle the [Android Immersive Mode](https://developer.android.com/training/system-ui/immersive "immersive mode").
 
 ### Android Only
 

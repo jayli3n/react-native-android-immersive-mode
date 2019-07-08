@@ -1,4 +1,4 @@
-package com.booyah.ToggleImmersiveMode;
+package com.jayli3n.ToggleImmersiveMode;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;

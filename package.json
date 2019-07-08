@@ -1,0 +1,34 @@
+{
+  "name": "react-native-android-immersive-mode",
+  "version": "1.0.0",
+  "description": "\"React Native Android Immersive Mode is a light weight React Native library to toggle the Android Immersive Mode.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayli3n/react-native-android-immersive-mode.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "react-component",
+    "react",
+    "native",
+    "navigation-bar",
+    "hide-navigation-bar",
+    "android-navbar",
+    "bottom-bar",
+    "hide-bottom-bar",
+    "immersive-mode",
+    "full-screen",
+    "react-native-android-immersive-mode"
+  ],
+  "author": "jayli3n - https://github.com/jayli3n",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayli3n/react-native-android-immersive-mode/issues"
+  },
+  "homepage": "https://github.com/jayli3n/react-native-android-immersive-mode#readme"
+}

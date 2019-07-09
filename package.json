@@ -1,7 +1,7 @@
 {
   "name": "react-native-android-immersive-mode",
   "version": "1.2.1",
-  "description": "\"React Native Android Immersive Mode is a light weight React Native library to toggle the Android Immersive Mode.\"",
+  "description": "\"Light weight React Native library to toggle the Android Immersive Mode.\"",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
